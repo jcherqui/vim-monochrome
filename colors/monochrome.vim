@@ -45,7 +45,7 @@ hi Function guifg=#ffffff guibg=#000000 guisp=#000000 gui=NONE ctermfg=15 ctermb
 hi FoldColumn guifg=#a9a9a9 guibg=#000000 guisp=#000000 gui=NONE ctermfg=248 ctermbg=NONE cterm=NONE
 hi PreProc guifg=#ffffff guibg=#000000 guisp=#000000 gui=bold ctermfg=15 ctermbg=NONE cterm=bold
 hi Visual guifg=#ffffff guibg=#00b2b2 guisp=#00b2b2 gui=NONE ctermfg=15 ctermbg=37 cterm=NONE
-hi VertSplit guifg=#00aaaa guibg=NONE guisp=NONE gui=NONE ctermfg=37 ctermbg=NONE cterm=NONE
+hi VertSplit guifg=#ffffff guibg=NONE guisp=NONE gui=NONE ctermfg=252 ctermbg=NONE cterm=NONE
 hi Exception guifg=#ffffff guibg=#000000 guisp=#000000 gui=bold ctermfg=15 ctermbg=NONE cterm=bold
 hi Keyword guifg=#ffffff guibg=#000000 guisp=#000000 gui=bold ctermfg=15 ctermbg=NONE cterm=bold
 hi Type guifg=#ffffff guibg=#000000 guisp=#000000 gui=bold ctermfg=15 ctermbg=NONE cterm=bold
